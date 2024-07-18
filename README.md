@@ -2,7 +2,7 @@
 
 TinyShell is a straightforward shell implementation in C, designed for educational purposes. It showcases the fundamental aspects of how a shell operates, including reading input, parsing commands, and executing either system commands or built-in functions.
 
-## Features
+## Features 
 
 - Basic command parsing and execution
 - Built-in commands: `cd`, `help`, and `exit`
